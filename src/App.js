@@ -2,7 +2,7 @@ import "./App.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import Homepage from "./pages/Homepage";
-import PokemonDetail from "./components/PokemonDetail";
+import PokemonDetail from "./pages/PokemonDetail";
 
 function App() {
   return (
